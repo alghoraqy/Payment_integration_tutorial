@@ -2,6 +2,8 @@
 
 Payment_integration_tutorial (Paymob, cash, RefCode) using Lottie files .
 
+video : https://drive.google.com/file/d/1rAIj2ZKgSl7eBDGy9TXH83Jy2UxD8kz-/view?usp=sharing
+
 
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005450-478f8f28-8f16-4446-b395-84a6152867c9.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005453-b5196153-e5bf-47d0-96f2-f6736966a6d8.jpg">
