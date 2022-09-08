@@ -1,6 +1,6 @@
 # payment_gateway_integration
 
-Payment_integration_tutorial (Paymob, cash, RefCode) using Lottie files .
+Payment_integration_tutorial (Paymob, cash, RefCode), with some Lottie files .
 
 video : https://drive.google.com/file/d/1rAIj2ZKgSl7eBDGy9TXH83Jy2UxD8kz-/view?usp=sharing
 
