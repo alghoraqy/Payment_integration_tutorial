@@ -1,6 +1,6 @@
 # payment_gateway_integration
 
-Payment_integration_tutorial (Paymob, cash, RefCode) using Lottie animation
+Payment_integration_tutorial (Paymob, cash, RefCode) using Lottie files .
 
 
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005450-478f8f28-8f16-4446-b395-84a6152867c9.jpg">
