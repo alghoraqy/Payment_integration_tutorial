@@ -11,7 +11,6 @@ Payment_integration_tutorial (Paymob, cash, RefCode) using Lottie animation
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005461-324b4566-ffbd-4619-b340-1370ab46ad36.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005463-83bfcc66-e616-48cb-a51f-0c8337c56d71.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005466-e7be36fa-5a2d-4356-91d9-8c622ca308c2.jpg">
-<img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005466-e7be36fa-5a2d-4356-91d9-8c622ca308c2.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005468-10904920-32c2-4ced-96df-163969eae65e.jpg">
 <img align="left" width="120" src="https://user-images.githubusercontent.com/88210924/189005470-ccc5b2c5-9cda-4aab-b613-8d0c940be0b5.jpg">
 
